@@ -1,0 +1,17 @@
+{
+  "name": "vanilla",
+  "version": "1.0.0",
+  "description": "creation of a chatbot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jules",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "nodemon": "^2.0.7",
+    "regex": "^0.1.1",
+    "xregexp": "^4.4.1"
+  }
+}
