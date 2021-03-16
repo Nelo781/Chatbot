@@ -1,0 +1,28 @@
+=========HINT=========
+[x] -> full mark
+[-] -> partial mark
+[ ] -> no mark
+>>> -> comment
+======================
+
+Not working well
+
+[x] correct link to messenger
+[x] correct join link format
+[] tell me about love actually
+[] when was  love actually released?
+[] who directed johnny english
+[] tell me about johnny english (2003)
+[] tell me about johnny english 2003
+[] tell me about johnny english (2018)
+[x] Give some hints to use the bot in the beginning of the conversation
+[x] Respectfully answer if it does not understand the input
+[] Our chatbot also provides image in responses
+[x] Our chatbot secure information are saved in .ENV file
+    >>> you have to remove development.json
+[ ] I have secured the webhooks (q14 of Week 3)
+[ ] Our chatbot is hosted also on Heroku
+
+Hi , i don't know if you can read this ?
+Some points are not clear, the chatbot should be able to send images back
+You just have to try with intents having 0.8 trust factor like spider man or untouchable
